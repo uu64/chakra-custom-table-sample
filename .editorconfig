@@ -7,4 +7,4 @@ trim_trailing_whitespace = true
 
 [*.{js,jsx,ts,tsx}]
 indent_style = space
-indent_size = 2n
+indent_size = 2
